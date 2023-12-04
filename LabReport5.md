@@ -6,8 +6,6 @@
 
 *Subject:* **Help Needed: Array Index Out of Bounds Exception in Lab5 Program**
 
-![Screenshot 1](link_to_screenshot_1.png)
-
 Hey everyone,
 
 I've encountered an issue while working on my `Lab5` program. I'm trying to take user input for an array, but my program is taking 4 elements and it seems like there's an array index out of bounds exception. 
@@ -35,8 +33,6 @@ Thanks for providing the code snippet. It looks like the loop condition might be
 ### Student Follow-up
 
 *Subject:* **Re: Re: Help Needed: Array Index Out of Bounds Exception - Issue Resolved!**
-
-![Screenshot 2](link_to_screenshot_2.png)
 
 Hey,
 
